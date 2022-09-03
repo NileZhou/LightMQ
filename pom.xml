@@ -19,6 +19,7 @@
     <modules>
         <module>lightmq-store</module>
         <module>lightmq-test</module>
+        <module>lightmq-server</module>
     </modules>
 
     <build>
